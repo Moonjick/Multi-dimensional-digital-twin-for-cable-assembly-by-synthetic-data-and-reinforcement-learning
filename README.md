@@ -52,5 +52,5 @@ mlagents-learn "yaml file path" --env="build exe file path" --run-id="ID"
 - `--force`: Overwrites existing training results with the same --run-id if they exist.
 - `--no-graphics`: Runs the environment in a non-graphical mode to save computation resources.
 - `--inference`: Runs the environment in inference mode to test a trained model without updating it.
-- 
+
 Follow these steps to successfully set up and train your model.
