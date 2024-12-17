@@ -54,3 +54,6 @@ mlagents-learn "yaml file path" --env="build exe file path" --run-id="ID"
 - `--inference`: Runs the environment in inference mode to test a trained model without updating it.
 
 Follow these steps to successfully set up and train your model.
+
+## Acknowledgement
+This work is supported by Institute of information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government(MSIT) (No.RS-2022-00155911, Artificial Intelligence Convergence Innovation Human) Resources Development(Kyung Hee University)) 
